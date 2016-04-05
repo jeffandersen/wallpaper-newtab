@@ -8,8 +8,9 @@ The extension attempts the current month and the previous month before defaultin
 
 1. Update the extension name and description in `manifest.json`
 2. Edit `js/wallpaper.js` and set line 5 to your hosting location.
-3. Upload files in `YYYY/M.png` format (e.g make a folder called `2016`, upload files `1.png` `2.png` ... `12.png`
-4. Update the images found in `images/` (extension icons, default wallpaper)
+3. Edit `newtab.html` and set the page title.
+4. Upload files in `YYYY/M.png` format (e.g make a folder called `2016`, upload files `1.png` `2.png` ... `12.png`
+5. Update the images found in `images/` (extension icons, default wallpaper)
 
 ### Local testing
 
